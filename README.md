@@ -7,7 +7,7 @@ TODO:
 ## Usage:
 
 1. List of input data:
-	- a. Source direction layer. (tif file)
+  - a. Source direction layer. (tif file)
   - b. Bank layer.(tif file)
   - c. Cost layer.(tif file)
   - d. Pits layer.(tif file)
