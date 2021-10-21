@@ -1,0 +1,13 @@
+C:\IRONFIST\Experiments\Dataset\omaha_ne_13_fist\fist6\
+19_srcdir.tif
+E101_WV_S1.0_spinal_omaha.tiff
+19_bank.tif
+19_cost.tif
+pits.tif       
+treeCanopyResampled.tif
+roughness.tif
+fel.tif
+19_parameter.txt
+19_stream.csv
+C:\Users\asainju\Arpan\IRONFIST\Experiments\TestCase\omaha_ne_13_fist\Results\deltaV3_raster\
+19_Prediction.tif
