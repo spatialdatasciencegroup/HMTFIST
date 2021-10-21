@@ -17,9 +17,10 @@ TODO:
   - h. parameter file. (text file)
   - i. Stream Data (csv file)
 
-3. Create Configuration File (See: Setup.xlsx->"ConfigurationSetup" worksheet for more details) Example: config.txt
+2. Create Configuration File (See: Setup.xlsx->"ConfigurationSetup" worksheet for more details) Example: config.txt
 
-4. Run
+3. Run
+
 	HMTFIST.exe config.txt
 
 ## Reference
