@@ -35,7 +35,7 @@
 #include <map>
 #include "GeotiffRead.cpp"
 #include "GeotiffWrite.cpp"
-#include "Tree.cpp"
+
 #include "DataTypes.h"
 using namespace std;
 
