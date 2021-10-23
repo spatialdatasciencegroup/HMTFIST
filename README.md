@@ -1,9 +1,8 @@
-## Introduction
-TODO:
 
 ## Compilation Code
-TODO:
-
+```
+g++ -std=c++11 -lgdal -I(PATH_TO_GDAL_INCLUDE)  _L(PATH_TO_GDAL_LIB) GeotiffRead.cpp GeotiffWrite.cpp HMTFIST.cpp -o hmtfst --verbose
+```
 ## Usage:
 
 1. List of input data:
