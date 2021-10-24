@@ -23,5 +23,6 @@ g++ -std=c++11 -lgdal -I(PATH_TO_GDAL_INCLUDE)  _L(PATH_TO_GDAL_LIB) GeotiffRead
 	HMTFIST.exe config.txt
 
 ## Reference
+1. Jiang, Zhe, Miao Xie, and Arpan Man Sainju. "Geographical hidden markov tree." IEEE Transactions on Knowledge and Data Engineering (2019).
 
-Jiang, Zhe, and Arpan Man Sainju. "Hidden Markov Contour Tree: A Spatial Structured Model for Hydrological Applications." Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2019.
+2. Jiang, Zhe, and Arpan Man Sainju. "Hidden Markov Contour Tree: A Spatial Structured Model for Hydrological Applications." Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2019.
