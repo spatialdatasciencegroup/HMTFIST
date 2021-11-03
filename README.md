@@ -22,6 +22,11 @@ g++ -std=c++11 -lgdal -I(PATH_TO_GDAL_INCLUDE)  _L(PATH_TO_GDAL_LIB) GeotiffRead
 
 	HMTFIST.exe config.txt
 
+4. Output files:
+  1. Tif file: Image file with flood map. 0 implies dry and 1 implies flood. -1 implies no data.
+  2. ProfileTable.xlsx   (See Output_File_Details.xlsx-> ProfileTable)
+  3. ProfileTable_preInterpolation.xlsx (See Output_File_Details.xlsx-> ProfileTable_preInterpolation)
+
 ## Reference
 1. Jiang, Zhe, Miao Xie, and Arpan Man Sainju. "Geographical hidden markov tree." IEEE Transactions on Knowledge and Data Engineering (2019).
 
